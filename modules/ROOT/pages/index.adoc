@@ -1,0 +1,3 @@
+= Title
+
+This has an attribute named `generated-attribute` with a value of {generated-attribute}
